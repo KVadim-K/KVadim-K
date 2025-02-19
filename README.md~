@@ -1,6 +1,7 @@
 # 👋 Привет! Меня зовут Вадим 
 ### 🚀 Python-разработчик | Веб-разработка | Telegram-боты | База данных
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -84,57 +85,18 @@
 
 ---
 
-## 📬 Контакты
-[![Email](https://img.shields.io/badge/-kvadimk@yandex.ru-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:kvadimk@yandex.ru)
-[![Telegram](https://img.shields.io/badge/-@KVadim_K-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/KVadim_K)
-[![GitHub](https://img.shields.io/badge/-KVadim--K-181717?style=flat&logo=github&logoColor=white)](https://github.com/KVadim-K)
-[![Website](https://img.shields.io/badge/-vaktest.ru-4B0082?style=flat&logo=google-chrome&logoColor=white)](https://vaktest.ru)
+
+
+---
+### 📫 Контакты
+
+[![Telegram](https://img.shields.io/badge/-@KVadim_K-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/KVadim_K)
+[![Email](https://img.shields.io/badge/-kvadimk@yandex.ru-FF0000?style=for-the-badge&logo=gmail)](mailto:kvadimk@yandex.ru)
+[![Website](https://img.shields.io/badge/-vaktest.ru-4B0082?style=for-the-badge&logo=google-chrome)](https://vaktest.ru)
 
 🚀 **Готов к сложным задачам и новым вызовам!**  
 💡 **Открыт для сотрудничества и интересных предложений!**
 ---
-
-
-<h1 align="center">👋 Привет, я Вадим Крупинин</h1>
-<h3 align="center">🚀 Python-разработчик | Веб-разработка | Telegram-боты | Базы данных</h3>
-
-<p align="center">
-  <!-- Исправленная ссылка на streak-stats с herokuapp-доменом -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KVadim-K&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Мой стек технологий
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-
----
-
-### 🌟 Избранные проекты
-
-#### 🌸 Flower Delivery [[Код]](https://github.com/KVadim-K/flower_delivery)
-> Система доставки цветов с телеграм-ботами  
->  
-> ![Django](https://img.shields.io/badge/-Django-092E20) ![Celery](https://img.shields.io/badge/-Celery-37814A) ![Docker](https://img.shields.io/badge/-Docker-2496ED)
-
-#### 💧 H2O Reminder Bot [[Код]](https://github.com/KVadim-K/h2o_reminder_bot)
-> Умный бот для контроля водного баланса  
->  
-> ![Python](https://img.shields.io/badge/-Python-3776AB) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4)
-
-#### 📋 Task Manager [[Код]](https://github.com/KVadim-K/task_manager)
-> Десктопный менеджер задач  
->  
-> ![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB) ![SQLite](https://img.shields.io/badge/-SQLite-003B57)
 
 ---
 
@@ -151,8 +113,16 @@
 
 ---
 
-### 📫 Контакты
+[//]: # (<p align="center">)
 
-[![Telegram](https://img.shields.io/badge/-@KVadim_K-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/KVadim_K)
-[![Email](https://img.shields.io/badge/-kvadimk@yandex.ru-FF0000?style=for-the-badge&logo=gmail)](mailto:kvadimk@yandex.ru)
-[![Website](https://img.shields.io/badge/-vaktest.ru-4B0082?style=for-the-badge&logo=google-chrome)](https://vaktest.ru)
+[//]: # (  <!-- Ссылка на streak-stats с herokuapp-доменом -->)
+
+[//]: # (  <a href="https://git.io/streak-stats">)
+
+[//]: # (    <img src="https://github-readme-streak-stats.herokuapp.com?user=KVadim-K&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D"/>)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+---
