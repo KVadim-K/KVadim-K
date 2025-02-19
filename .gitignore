@@ -1,0 +1,2 @@
+*.exe
+.venv/Scripts/pydoc.bat
