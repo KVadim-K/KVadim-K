@@ -74,18 +74,17 @@
 ## 📚 Образование и сертификаты
 ### 🎓 Высшее образование **ДГТУ** (2004)
 
-
-### 📜 Сертификаты о дополнительном обучении
-| Курс | Организация | Документ |
-|------|-------------|----------|
-| Программист на Python с нуля с помощью ChatGPT | Зерокодер | [📎 Просмотр](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/626bd543483b94e31db88f8138d97808.png/s/800x/a/256825/sc/27) |
-| 7-дневная групповая разработка на Python | Зерокодер | [📎 Просмотр](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/f722f27c18fc29699bc2d7d11190f1b8.png/s/800x/a/256825/sc/155) |
-| Интенсив по анализу данных | Зерокодер | [📎 Просмотр](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/3040d7f803f6b05a13570f31710c1fc9.png/s/800x/a/256825/sc/31) |
-| Интенсив по разработке мобильных приложений | Зерокодер | [📎 Просмотр](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/d97d833ef8d9639cd714ec57b0201f46.png/s/800x/a/256825/sc/164) |
-
 ---
+## 📜 Сертификаты о дополнительном обучении
 
+### 🎓 Пройденные курсы
 
+| Курс | Организация                                                                                             | Документ |
+|------|---------------------------------------------------------------------------------------------------------|----------|
+| **Программист на Python с нуля с помощью ChatGPT** | [![Зерокодер](https://img.shields.io/badge/-ZEROCODER-00CC00?style=flat-square)](https://zerocoder.ru) | [![Сертификат](https://img.shields.io/badge/-Сертификат-0088CC?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/626bd543483b94e31db88f8138d97808.png/s/800x/a/256825/sc/27) |
+| **7-дневная групповая разработка на Python** | [![Зерокодер](https://img.shields.io/badge/-ZEROCODER-00CC00?style=flat-square)](https://zerocoder.ru) | [![Сертификат](https://img.shields.io/badge/-Сертификат-0088CC?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/f722f27c18fc29699bc2d7d11190f1b8.png/s/800x/a/256825/sc/155) |
+| **Интенсив по анализу данных** | [![Зерокодер](https://img.shields.io/badge/-ZEROCODER-00CC00?style=flat-square)](https://zerocoder.ru) | [![Сертификат](https://img.shields.io/badge/-Сертификат-0088CC?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/3040d7f803f6b05a13570f31710c1fc9.png/s/800x/a/256825/sc/31) |
+| **Интенсив по разработке мобильных приложений** | [![Зерокодер](https://img.shields.io/badge/-ZEROCODER-00CC00?style=flat-square)](https://zerocoder.ru) | [![Сертификат](https://img.shields.io/badge/-Сертификат-0088CC?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://fs-thb02.getcourse.ru/fileservice/file/thumbnail/h/d97d833ef8d9639cd714ec57b0201f46.png/s/800x/a/256825/sc/164) |
 
 ---
 ### 📫 Контакты
@@ -113,16 +112,13 @@
 
 ---
 
-[//]: # (<p align="center">)
-
-[//]: # (  <!-- Ссылка на streak-stats с herokuapp-доменом -->)
-
-[//]: # (  <a href="https://git.io/streak-stats">)
-
-[//]: # (    <img src="https://github-readme-streak-stats.herokuapp.com?user=KVadim-K&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D"/>)
-
-[//]: # (  </a>)
-
-[//]: # (</p>)
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/demo/">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=KVadim-K&theme=dark&border_radius=4.6&date_format=j%20M%5B%20Y%5D"
+      alt="Статистика активности на GitHub"
+    />
+  </a>
+</p>
 
 ---
