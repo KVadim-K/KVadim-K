@@ -11,6 +11,8 @@
 
 ---
 
+
+
 ## 🔥 О себе
 🧑💻 Python-разработчик с фокусом на создание современных веб-решений и интеллектуальных ботов.  
 🚀 Имею опыт в полном цикле разработки: от идеи до production-релиза.  
@@ -122,3 +124,6 @@
 </p>
 
 ---
+![GitHub last commit](https://img.shields.io/github/last-commit/KVadim-K/flower_delivery)
+![GitHub issues](https://img.shields.io/github/issues/KVadim-K/flower_delivery)
+![GitHub license](https://img.shields.io/github/license/KVadim-K/flower_delivery)
