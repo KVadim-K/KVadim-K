@@ -124,6 +124,3 @@
 </p>
 
 ---
-![GitHub last commit](https://img.shields.io/github/last-commit/KVadim-K/flower_delivery)
-![GitHub issues](https://img.shields.io/github/issues/KVadim-K/flower_delivery)
-![GitHub license](https://img.shields.io/github/license/KVadim-K/flower_delivery)
