@@ -1,4 +1,4 @@
-# 👋 Привет! Меня зовут Вадим 
+# 👋 Привет! Меня зовут Вадим 👋
 ### 🚀 Python-разработчик | Веб-разработка | Telegram-боты | База данных
 
 
@@ -48,7 +48,18 @@
 
 ---
 
-## 🌟 Ключевые проекты
+## 💼 Опыт стажировки
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?logo=telegram&logoColor=white)
+![TON](https://img.shields.io/badge/-TON-0098EA?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA5OEVBIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMi4zM2MtMS4yOSAwLTIuNDcuNjYtMy4xNTYgMS43TDMuMzE3IDExLjE4NmMtLjgxIDEuMzE4LS44MSAyLjg2IDAgNC4xNDRsNS41MyA4Ljg0NmMuMzQzLjU0OC45NS44ODUgMS42MTMuODg1cyAxLjI2LS4zMzcgMS42MS0uODg1bDUuNTI5LTguODQ2Yy44MS0xLjMxNC44MS0yLjg1OCAwLTQuMTQ0TDE1LjE2IDQuMDM1QzE0LjQ3IDMuMDEzIDEzLjI5IDIuMzMgMTIgMi4zM3ptLS4wMTUgMS41NmMuNzY0IDAgMS40OTYuMzkyIDEuOTIxIDEuMDU4bDcuNTIzIDEyLjIxMmMuNDA3LjY1LjQwNyAxLjQ2IDAgMi4xMTNsLTUuNTMgOC44NDdjLS4xODIuMjk0LS41MDIuNDctLjg2OS40N3MtLjY4OC0uMTc2LS44NjktLjQ3bC01LjUzLTguODQ3Yy0uNDA4LS42NTItLjQwOC0xLjQ2IDAtMi4xMTNsNy41MjQtMTIuMTIxQzkuNSAzLjI5IDIwLjIzIDMuNSAxMiA0eiIvPjwvc3ZnPg==&logoColor=white)
+![Google Drive](https://img.shields.io/badge/-Google_Drive-4285F4?logo=google-drive&logoColor=white)
+
+**Был стажёром Python-разработчиком (Telegram API)**  
+- Интеграция платежей через Telegram Bot Payments и TON, автоматизация через Google-сервисы, разработка функций для администрирования и модерации чатов.
+
+
+## 🌟 Ключевые проекты 🌟
 ### 🌸 [Flower Delivery](https://github.com/KVadim-K/flower_delivery) · `Django` `Docker` `Celery` `Redis` `Telegram API`
 🚀 Полноценная система доставки цветов с интеграцией Telegram-ботов  
 ✅ Особенности:
